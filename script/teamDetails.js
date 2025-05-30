@@ -1,308 +1,320 @@
 export const TEAM_MANAGERS_DETAILS = [
-    {
-        name: "Manish S",
-        img: "../images/team/managers/manish.png",
-        linkedin: "https://www.linkedin.com/in/manish-s-89ab80243/",
-        facebook: "https://www.facebook.com/profile.php?id=100075516520476",
-        mail: "manish.teamkartkgp@gmail.com",
-        designation1: "Team Leader",
-        designation2: "Head of Mechanical Systems",
-        designation3: "Chassis Head"
-    },
-    {
-        name: "Vedant Dave",
-        img: "../images/team/managers/vedant.png",
-        linkedin: "https://www.linkedin.com/in/vedant-santosh-dave-416175224/",
-        facebook: "https://www.facebook.com/profile.php?id=100074874957923",
-        mail: "vedant.teamkartkgp@gmail.com",
-        designation1: "Deputy Team Leader",
-        designation2: "Electronics Head",
-        designation3: ""
-    },
-    {
-        name: "Harsh Kumar",
-        img: "../images/team/managers/harsh.png",
-        linkedin: "https://www.linkedin.com/in/harsh-kumar-bhadhotia-204a88203/",
-        facebook: "https://www.facebook.com/profile.php?id=100013802584124",
-        mail: "harshkumar.teamkartkgp@gmail.com",
-        designation1: "Finance Head",
-        designation2: "Corporate and Public Relations Head",
-        designation3: "" 
-    }
-]
+  {
+    name: "Sanket Agarwal",
+    img: "./images/team/managers/sanket.JPG",
+    linkedin: "https://www.linkedin.com/in/sanket-agarwal-5ba719285/",
+    facebook: "https://www.facebook.com/profile.php?id=100075516520476",
+    mail: "sanketagarwal.teamkartkgp@gmail.com",
+    designation1: "Team Leader",
+    designation2: "Drivetrain and Thermals Head",
+    designation3: "",
+  },
+  {
+    name: "Gokul R",
+    img: "./images/team/managers/gokul.JPG",
+    linkedin: "https://www.linkedin.com/in/gokulr007/",
+    facebook: "https://www.facebook.com/profile.php?id=100074874957923",
+    mail: "gokul.teamkartkgp@gmail.com",
+    designation1: "Deputy Team Leader",
+    designation2: "Modelling and Simulations Head",
+    designation3: "",
+  },
+  {
+    name: "Aryan Verma",
+    img: "./images/team/managers/Verma.JPG",
+    linkedin: "https://www.linkedin.com/in/aryan-verma-5a4883284/",
+    facebook: "https://www.facebook.com/profile.php?id=100013802584124",
+    mail: "aryanverma.teamkartkgp@gmail.com",
+    designation1: "Finance Head",
+    designation2: "",
+    designation3: "",
+  },
+];
+
+export const TECHNICAL_MANAGERS_DETAILS = [
+  {
+    name: "Nakul Nilange",
+    img: "./images/team/managers/harsh.png",
+    linkedin: "https://www.linkedin.com/in/nakul-nilange-719551280/",
+    facebook: "https://www.facebook.com/profile.php?id=100013802584124",
+    mail: "nakul.teamkartkgp@gmail.com",
+    designation1: "Head of Electrical Systems",
+    designation2: "Battery and Powertrain Head",
+    designation3: "",
+  },
+  {
+    name: "Aditya Varghese",
+    img: "./images/team/managers/harsh.png",
+    linkedin: "https://www.linkedin.com/in/nakul-nilange-719551280/",
+    facebook: "https://www.facebook.com/profile.php?id=100013802584124",
+    mail: "adityav.teamkartkgp@gmail.com",
+    designation1: "Head of Mechanical Systems",
+    designation2: "Drivetrain and Thermals Head",
+    designation3: "",
+  },
+];
 
 
 export const TEAM_HEADS_DETAILS = [
   {
-    name: "Avi Saraf",
-    img: "../images/team/heads/avi.jpg",
-    linkedin: "https://www.linkedin.com/in/avi-saraf-0b62851b6/",
-    facebook: "https://www.facebook.com/avi.saraf.90",
-    mail: "avi.teamkartkgp@gmail.com",
-    designation1: "Electric Powertrain Head",
-    designation2: ""
-},
-  {
-    name: "Aaronyak Dewanji",
-    img: "../images/team/heads/aaronyak.jpg",
-    linkedin: "https://www.linkedin.com/in/aaronyak-dewanji-b49a60238/",
+    name: "Trideshvaran Bharathi",
+    img: "./images/team/heads/aaronyak.jpg",
+    linkedin: "https://www.linkedin.com/in/tridesh/",
     facebook: "https://www.facebook.com/profile.php?id=100074065076841",
-    mail: "aaronyak.teamkartkgp@gmail.com",
-    designation1: "Battery Management System Head",
-    designation2: ""
-},
+    mail: "tridesh.teamkartkgp@gmail.com",
+    designation1: "Embedded Systems and Controls Head",
+    designation2: "",
+  },
   {
-    name: "Mayukh S Saha",
+    name: "Syed Nasif Hossain",
+    img: "./images/team/heads/nasif.jpg",
+    linkedin: "https://www.linkedin.com/in/syed-nasif-hossain/",
+    facebook: "https://www.facebook.com/avi.saraf.90",
+    mail: "nasif.teamkartkgp@gmail.com",
+    designation1: "Embedded Systems and Controls Head",
+    designation2: "",
+  },
+  {
+    name: "Sanjay Jayaraman",
     img: "../images/team/heads/mayukh.jpg",
-    linkedin: "https://www.linkedin.com/in/mayukh-shubhra-saha-668b07243/",
+    linkedin: "https://www.linkedin.com/in/sanjay-jayaraman/",
     facebook: "https://www.facebook.com/mayukh.s.saha.404",
-    mail: "mayukh.teamkartkgp@gmail.com",
-    designation1: "Low Voltage Systems Head",
-    designation2: ""
-},
+    mail: "sanjay.teamkartkgp@gmail.com",
+    designation1: "Embedded Systems and Controls Head",
+    designation2: "",
+  },
   {
-    name: "Sandeep Varma",
-    img: "../images/team/heads/sandeep.jpg",
-    linkedin: "https://www.linkedin.com/in/sndpvrmah/",
+    name: "S K Avinash Pranao",
+    img: "./images/team/heads/sandeep.jpg",
+    linkedin: "https://www.linkedin.com/in/avinash-pranao-s-k-57b40b2a2/",
     facebook: "https://www.facebook.com/gysndp1",
-    mail: "sandeep.teamkartkgp@gmail.com",
+    mail: "avinashpranao.teamkartkgp@gmail.com",
     designation1: "Data Acquisition System Head",
-    designation2: ""
-},
+    designation2: "",
+  },
+  { name: "Aryan Sanghariyat",
+    img: "./images/team/heads/sang.jpg",
+    linkedin: "https://www.linkedin.com/in/aryan-sanghariyat-46a4a0282/",
+    facebook: "--",
+    mail: "aryansanghariyat.teamkartkgp@gmail.com",
+    designation1: "Battery and Powertrain Head",
+    designation2: "",
+  },
   {
-    name: "Gollapalli Dheeraj",
-    img: "../images/team/heads/dheeraj.jpg",
-    linkedin: "https://www.linkedin.com/in/dheeraj-gollapalli-369b35244/",
-    facebook: "https://www.facebook.com/profile.php?id=100075741466209",
-    mail: "dheeraj.teamkartkgp@gmail.com",
-    designation1: "Drivetrain & Thermals Head",
-    designation2: ""
-},
-  {
-    name: "Om Talreja",
-    img: "../images/team/heads/om.jpg",
-    linkedin: "https://www.linkedin.com/in/om-talreja/",
-    facebook: "https://www.facebook.com/profile.php?id=100075560325183",
-    mail: "om.teamkartkgp@gmail.com",
-    designation1: "Drivetrain & Thermals Head",
-    designation2: ""
-},
-  {
-    name: "Mohammed Raihaan",
-    img: "../images/team/heads/raihaan.jpg",
-    linkedin: "https://www.linkedin.com/in/mohammed-raihaan/",
-    facebook: "https://www.facebook.com/mohammed.raihaan.94",
-    mail: "raihaan.teamkartkgp@gmail.com",
-    designation1: "Aerodynamics & Composites Head",
-    designation2: ""
-},
-  {
-    name: "Debojyoti Roy",
-    img: "../images/team/heads/debojyoti.jpg",
-    linkedin: "https://www.linkedin.com/in/debojyoti-roy-bb5329233/",
-    facebook: "https://www.facebook.com/debojyotiroy2002",
-    mail: "debojyoti.teamkartkgp@gmail.com",
-    designation1: "Aerodynamics & Composites Head",
-    designation2: ""
-},
-  {
-    name: "Shaikh Amaanur Rahman",
-    img: "../images/team/heads/amaanur.jpg",
-    linkedin: "https://www.linkedin.com/in/shaikh-amaanur-rahman-953476239/",
-    facebook: "https://www.facebook.com/profile.php?id=100075713804559",
-    mail: "amaanur.teamkartkgp@gmail.com",
-    designation1: "Drivetrain & Thermals Head",
-    designation2: ""
-},
-  {
-    name: "Sayantan Sarkar",
-    img: "../images/team/heads/sayantan.jpg",
-    linkedin: "https://www.linkedin.com/in/sayantan-sarkar-a535b422a/",
-    facebook: "https://www.facebook.com/profile.php?id=100075404450770",
-    mail: "sayantan.teamkartkgp@gmail.com",
-    designation1: "Suspension, Steering & Brakes Head",
-    designation2: "Media Head"
-},
-  {
-    name: "Dillip Dibyajyoti Dash",
-    img: "../images/team/heads/dilip.jpg",
-    linkedin: "https://www.linkedin.com/in/dillip-dibyajyoti-dash-b628a7240/",
-    facebook: "",
-    mail: "dilip.teamkartkgp@gmail.com",
-    designation1: "Low Voltage Systems Head",
-    designation2: ""
-},
-  {
-    name: "Harsh Kumar",
-    img: "../images/team/heads/harshkumar.jpg",
-    linkedin: "",
-    facebook: "",
-    mail: "harshaero.teamkartkgp@gmail.com",
-    designation1: "Data Acquisition System Head",
-    designation2: ""
-},
-  {
-    name: "Kokula Selvan J",
-    img: "../images/team/heads/kokula.jpg",
-    linkedin: "https://www.linkedin.com/in/kokula-selvan-8a437b248/",
-    facebook: "https://www.facebook.com/profile.php?id=100074420423605",
-    mail: "kokula.teamkartkgp@gmail.com",
-    designation1: "Chassis Head",
-    designation2: ""
-},
-  {
-    name: "Maria Helenaa Manickam",
-    img: "../images/team/heads/maria.jpg",
-    linkedin: "https://www.linkedin.com/in/maria-helenaa-9a0490230/",
-    facebook: "https://www.facebook.com/helenavrm",
-    mail: "maria.teamkartkgp@gmail.com",
-    designation1: "Suspension, Steering & Brakes Head",
-    designation2: ""
-},
-  {
-    name: "Salil Lokhande",
-    img: "../images/team/heads/salil.jpg",
-    linkedin: "https://www.linkedin.com/in/salil-lokhande-403921248/",
-    facebook: "https://www.facebook.com/profile.php?id=100080061060883",
-    mail: "salil.teamkartkgp@gmail.com",
-    designation1: "Suspension, Steering & Brakes Head",
-    designation2: ""
-},
-  {
-    name: "R S Thiruvignesh",
-    img: "../images/team/heads/thiruvignesh.jpg",
-    linkedin: "https://www.linkedin.com/in/r-s-thiruvignesh-224172228/",
-    facebook: "https://www.facebook.com/thiru.vignesh.946",
-    mail: "thiru.teamkartkgp@gmail.com",
-    designation1: "Static Events Head",
-    designation2: ""
-},
-  {
-    name: "Swapnil Sharma",
-    img: "../images/team/heads/swapnil.jpg",
-    linkedin: "",
-    facebook: "",
-    mail: "swapnil.teamkartkgp@gmail.com",
-    designation1: "Battery Management System Head",
-    designation2: ""
-},
-  {
-    name: "Vigneswaran S",
+    name: "Rhythm Jain",
     img: "../images/team/heads/vigneswaran.jpg",
-    linkedin: "https://www.linkedin.com/in/vigneswaran-s-536575227/",
+    linkedin: "https://www.linkedin.com/in/rhythm-jain-9a5939203/",
     facebook: "https://www.facebook.com/profile.php?id=100075757830008",
-    mail: "vigneswaran.teamkartkgp@gmail.com",
+    mail: "rhythmjain.teamkartkgp@gmail.com",
+    designation1: "Battery and Powertrain Head",
+    designation2: "",
+  },
+  {
+    name: "Akhil Vasan K R",
+    img: "./images/team/heads/sayantan.jpg",
+    linkedin: "https://www.linkedin.com/in/akhil-vasan-k-r-243392284/",
+    facebook: "https://www.facebook.com/profile.php?id=100095276090541",
+    mail: "akhilvasan.teamkartkgp@gmail.com",
+    designation1: "Battery and Powertrain Head",
+    designation2: "",
+  },
+  {
+    name: "Nishant Kumar",
+    img: "./images/team/heads/kokula.jpg",
+    linkedin: "https://www.linkedin.com/in/nishant-kumar-03b0a8203/",
+    facebook: "https://www.facebook.com/profile.php?id=100074420423605",
+    mail: "nishantkumar.teamkartkgp@gmail.com",
+    designation1: "Corporate Relations and Events Head",
+    designation2: "",
+  },
+  {
+    name: "BA. Pranavi",
+    img: "../images/team/heads/raihaan.jpg",
+    linkedin: "www.linkedin.com/in/ba-pranavi/",
+    facebook: "https://www.facebook.com/PranaviBA",
+    mail: "pranavi.teamkartkgp@gmail.com",
     designation1: "Aerodynamics & Composites Head",
-    designation2: ""
-},
+    designation2: "",
+  },
+  {
+    name: "Harsh Modi",
+    img: "./images/team/heads/harsh.jpg",
+    linkedin: "https://www.linkedin.com/in/harsh-modi-33a111284/",
+    facebook: "https://www.facebook.com/harsh.modi.545/about_overview",
+    mail: "harshmodi.teamkartkgp@gmail.com",
+    designation1: "Suspension, Steering & Brakes Head",
+    designation2: "Aerodynamics & Composites Head",
+  },
+  {
+    name: "Akshar Garg",
+    img: "../images/team/heads/maria.jpg",
+    linkedin: "https://www.linkedin.com/in/akshar-garg-366805280/",
+    facebook: "https://www.facebook.com/akshar.garg.77",
+    mail: "akshargarg.teamkartkgp@gmail.com",
+    designation1: "Suspension, Steering & Brakes Head",
+    designation2: "",
+  },
+  {
+    name: "Saarisht Naveen Kalra",
+    img: "../images/team/heads/salil.jpg",
+    linkedin: "https://www.linkedin.com/in/saarishtkalra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    facebook: "",
+    mail: "saarishtkalra.teamkartkgp@gmail.com",
+    designation1: "Suspension, Steering & Brakes Head",
+    designation2: "",
+  },
+  {
+    name: "Rajvardhan Padghan",
+    img: "../images/team/heads/thiruvignesh.jpg",
+    linkedin: "https://www.linkedin.com/in/rajvardhan-padghan-170b0027b/",
+    facebook: "",
+    mail: "rajvardhanpadghan.teamkartkgp@gmail.com",
+    designation1: "Suspension, Steering & Brakes Head",
+    designation2: "",
+  },
+  {
+    name: "Govind Bhat",
+    img: "../images/team/heads/amaanur.jpg",
+    linkedin:"https://www.linkedin.com/in/govind-bhat-b24370238",
+    facebook: "https://www.facebook.com/share/16pQcbGHxb/",
+    mail: "govindbhat.teamkartkgp@gmail.com",
+    designation1: "Drivetrain & Thermals Head",
+    designation2: "",
+  },
+  {
+    name: "Priyavrat Mohta",
+    img: "../images/team/heads/sayantan.jpg",
+    linkedin: "https://www.linkedin.com/in/priyavrat-mohta-332a83268",
+    facebook: "https://www.facebook.com/profile.php?id=100075404450770",
+    mail: "priyavratmohta.teamkartkgp@gmail.com",
+    designation1: "Chassis Head",
+    designation2: "",
+  },
+  {
+    name: "Aryaan Sinha",
+    img: "./images/team/heads/sayantan.jpg",
+    linkedin: "https://www.linkedin.com/in/aryaansinha/",
+    facebook: "https://www.facebook.com/profile.php?id=100094031314693",
+    mail: "aryaansinha.teamkartkgp@gmail.com",
+    designation1: "Chassis Head",
+    designation2: "",
+  },
+  {
+    name: "Annamalai T V",
+    img: "../images/team/heads/swapnil.jpg",
+    linkedin: "https://www.linkedin.com/in/annaamalai-t-vanmeeganathan-25684b291/",
+    facebook: "",
+    mail: "annaamalai.vanmeeganathan@gmail.com",
+    designation1: "Media and Public Relations Head",
+    designation2: "",
+  },
+];
 
-]
 
 
 export const TEAM_MEMBERS_DETAILS = [
   {
     name: "Aakarsh A",
-    subsystem: "Electronics"
+    subsystem: "Electronics",
   },
   {
     name: "Abhinandh",
-    subsystem: "Electronics"
+    subsystem: "Electronics",
   },
   {
     name: "Aniket Thakare",
-    subsystem: "Media & Corporate and Public Relations"
+    subsystem: "Media & Corporate and Public Relations",
   },
   {
     name: "Aniruddha Ghosh",
-    subsystem: "Mechanical"
+    subsystem: "Mechanical",
   },
   {
     name: "Anirudha Wasnik",
-    subsystem: "Mechanical"
+    subsystem: "Mechanical",
   },
   {
     name: "Ayush Saraykar",
-    subsystem: "Mechanical"
+    subsystem: "Mechanical",
   },
   {
     name: "Deep Ghosh",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Dev Bhatia",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Disha Uppuluri",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Disha Uppuluri",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Himanshu Sahu",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Himanshu Singh",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Jaya Shankar",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "K Aniruddha Bhardwaj",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Kislay Arya",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Kunal Kathuria",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Oishik Nandi",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Pritish Saha",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Roctotpal Sandilya",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Samarth Rane",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Sanskar Agarwal",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Sarthak Tonk",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Shubham Pingale",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Srinjoy Ganguly",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Thejaswini Devakumar",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
   {
     name: "Vaibhav K",
-    subsystem: "ABC"
+    subsystem: "ABC",
   },
-]
-
+];

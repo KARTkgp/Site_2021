@@ -51,6 +51,25 @@ p {
   max-width: 180px;
   max-height: 180px;
 }
+#rs_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 140px; /* Ensures the div has enough height to center the logo */
+}
+
+#rs_link {
+  display: flex; /* So the image can be centered inside the link */
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#rs {
+  max-height: 100%;  /* Limits image height to parent container */
+  width: auto;
+}
+
 
 @media only screen and (max-width: 576px) {
   #nalco {
@@ -58,3 +77,4 @@ p {
     max-height: 260px;
   }
 }
+

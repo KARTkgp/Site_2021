@@ -1,13 +1,13 @@
 const CONTACT_DETAILS = [
   {
-      name: "Manish S.",
-      contact: "+91 95000 18839",
-      number: "+91-9500018839"
+      name: "Sanket Agarwal",
+      contact: "+91 98756 75383",
+      number: "+91-9875675383"
   },
   {
-      name: "Vedant Dave",
-      contact: "+91 96194 45999",
-      number: "+91-9619445999"
+      name: "Gokul R",
+      contact: "+91 70101 65881",
+      number: "+91-7010165881"
   }
 ]
 
