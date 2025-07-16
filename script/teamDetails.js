@@ -21,7 +21,7 @@ export const TEAM_MANAGERS_DETAILS = [
   },
   {
     name: "Aryan Verma",
-    img: "./images/team/managers/Verma.JPG",
+    img: "./images/team/managers/Verma.jpg",
     linkedin: "https://www.linkedin.com/in/aryan-verma-5a4883284/",
     facebook: "https://www.facebook.com/profile.php?id=100013802584124",
     mail: "aryanverma.teamkartkgp@gmail.com",
