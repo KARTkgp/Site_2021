@@ -34,7 +34,7 @@ export const TEAM_MANAGERS_DETAILS = [
 export const TECHNICAL_MANAGERS_DETAILS = [
   {
     name: "Nakul Nilange",
-    img: "./images/team/managers/harsh.png",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/nakul-nilange-719551280/",
     facebook: "https://www.facebook.com/profile.php?id=100013802584124",
     mail: "nakul.teamkartkgp@gmail.com",
@@ -44,7 +44,7 @@ export const TECHNICAL_MANAGERS_DETAILS = [
   },
   {
     name: "Aditya Varghese",
-    img: "./images/team/managers/harsh.png",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/nakul-nilange-719551280/",
     facebook: "https://www.facebook.com/profile.php?id=100013802584124",
     mail: "adityav.teamkartkgp@gmail.com",
@@ -58,7 +58,7 @@ export const TECHNICAL_MANAGERS_DETAILS = [
 export const TEAM_HEADS_DETAILS = [
   {
     name: "Trideshvaran Bharathi",
-    img: "./images/team/heads/aaronyak.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/tridesh/",
     facebook: "https://www.facebook.com/profile.php?id=100074065076841",
     mail: "tridesh.teamkartkgp@gmail.com",
@@ -76,7 +76,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Sanjay Jayaraman",
-    img: "../images/team/heads/mayukh.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/sanjay-jayaraman/",
     facebook: "https://www.facebook.com/mayukh.s.saha.404",
     mail: "sanjay.teamkartkgp@gmail.com",
@@ -85,7 +85,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "S K Avinash Pranao",
-    img: "./images/team/heads/sandeep.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/avinash-pranao-s-k-57b40b2a2/",
     facebook: "https://www.facebook.com/gysndp1",
     mail: "avinashpranao.teamkartkgp@gmail.com",
@@ -102,7 +102,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Rhythm Jain",
-    img: "../images/team/heads/vigneswaran.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/rhythm-jain-9a5939203/",
     facebook: "https://www.facebook.com/profile.php?id=100075757830008",
     mail: "rhythmjain.teamkartkgp@gmail.com",
@@ -111,7 +111,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Akhil Vasan K R",
-    img: "./images/team/heads/sayantan.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/akhil-vasan-k-r-243392284/",
     facebook: "https://www.facebook.com/profile.php?id=100095276090541",
     mail: "akhilvasan.teamkartkgp@gmail.com",
@@ -120,7 +120,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Nishant Kumar",
-    img: "./images/team/heads/kokula.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/nishant-kumar-03b0a8203/",
     facebook: "https://www.facebook.com/profile.php?id=100074420423605",
     mail: "nishantkumar.teamkartkgp@gmail.com",
@@ -129,7 +129,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "BA. Pranavi",
-    img: "../images/team/heads/raihaan.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "www.linkedin.com/in/ba-pranavi/",
     facebook: "https://www.facebook.com/PranaviBA",
     mail: "pranavi.teamkartkgp@gmail.com",
@@ -147,7 +147,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Akshar Garg",
-    img: "../images/team/heads/maria.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/akshar-garg-366805280/",
     facebook: "https://www.facebook.com/akshar.garg.77",
     mail: "akshargarg.teamkartkgp@gmail.com",
@@ -156,7 +156,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Saarisht Naveen Kalra",
-    img: "../images/team/heads/salil.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/saarishtkalra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
     facebook: "",
     mail: "saarishtkalra.teamkartkgp@gmail.com",
@@ -165,7 +165,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Rajvardhan Padghan",
-    img: "../images/team/heads/thiruvignesh.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/rajvardhan-padghan-170b0027b/",
     facebook: "",
     mail: "rajvardhanpadghan.teamkartkgp@gmail.com",
@@ -174,7 +174,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Govind Bhat",
-    img: "../images/team/heads/amaanur.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin:"https://www.linkedin.com/in/govind-bhat-b24370238",
     facebook: "https://www.facebook.com/share/16pQcbGHxb/",
     mail: "govindbhat.teamkartkgp@gmail.com",
@@ -183,7 +183,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Priyavrat Mohta",
-    img: "../images/team/heads/sayantan.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/priyavrat-mohta-332a83268",
     facebook: "https://www.facebook.com/profile.php?id=100075404450770",
     mail: "priyavratmohta.teamkartkgp@gmail.com",
@@ -192,7 +192,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Aryaan Sinha",
-    img: "./images/team/heads/sayantan.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/aryaansinha/",
     facebook: "https://www.facebook.com/profile.php?id=100094031314693",
     mail: "aryaansinha.teamkartkgp@gmail.com",
@@ -201,7 +201,7 @@ export const TEAM_HEADS_DETAILS = [
   },
   {
     name: "Annamalai T V",
-    img: "../images/team/heads/swapnil.jpg",
+    img: "./images/team/members/avatar.png",
     linkedin: "https://www.linkedin.com/in/annaamalai-t-vanmeeganathan-25684b291/",
     facebook: "",
     mail: "annaamalai.vanmeeganathan@gmail.com",
