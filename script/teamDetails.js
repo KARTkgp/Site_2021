@@ -34,7 +34,7 @@ export const TEAM_MANAGERS_DETAILS = [
 export const TECHNICAL_MANAGERS_DETAILS = [
   {
     name: "Nakul Nilange",
-    img: "./images/team/members/avatar.png",
+    img: "./images/team/managers/nakul.png",
     linkedin: "https://www.linkedin.com/in/nakul-nilange-719551280/",
     facebook: "https://www.facebook.com/profile.php?id=100013802584124",
     mail: "nakul.teamkartkgp@gmail.com",
